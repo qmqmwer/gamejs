@@ -8,10 +8,10 @@
 		"id": 408,
 		"lisense": "",
 		"lisenseLink": "https://www.mk2139.com:6003/entry/register72806/?i_code=10547368",
-		"name": "LUCKY NEKO-Android",
+		"name": "DICE-Android",
 		"order": 190000,
 		"parentChapterId": 407,
-		"type": 1,
+		"type": 0,
 		"userControlSetTop": false,
 		"visible": 0
 }
